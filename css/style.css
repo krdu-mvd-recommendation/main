@@ -292,10 +292,10 @@ body {
 /* -----------MAIN--------------- */
 
 .main {
-	padding: 0px 0px 0px 40px;
+	padding: 0px 100px 0px 40px;
 	/* padding-top: 30px;
 	padding-right: 158px; */
-	max-width: 940px;
+	max-width: 1040px;
 }
 
 .main h3 p {
